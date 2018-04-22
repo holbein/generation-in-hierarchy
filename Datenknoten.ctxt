@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Datenknoten
+comment1.params=name\ b
+comment1.target=Datenknoten(java.lang.String,\ Baumelem[])
+comment2.params=name
+comment2.target=boolean\ enthaelt(java.lang.String)
+comment3.params=name
+comment3.target=int\ generationssuche(java.lang.String)
+numComments=4
