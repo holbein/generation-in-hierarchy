@@ -4,5 +4,5 @@
 * **Time**: ca. one class (April 19th)
 * **Assignment**: Obtain the generation/level of data in a hierarchical structure
 
-## Author
-* [Lukas](https://github.com/luki)
+## Solutions
+* [Lukas](/lukas)
