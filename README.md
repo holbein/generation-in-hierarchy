@@ -5,4 +5,4 @@
 * **Assignment**: Obtain the generation/level of data in a hierarchical structure
 
 ## Solutions
-* [Lukas](/lukas)
+* [Lukas](/lukas/BlueJ:Java) (+ [Private Haskell Solution](/lukas/Haskell))
